@@ -1,7 +1,7 @@
 # Demo phpdt/ldt
 
 
-By "PHP Advanced Datatable" you can do editing, deletion and diaplay proccess on your tables in your database with high speed and great speed that provides the programmer with effectiveness in the development of the project and provide great efficiency to the user
+By "PHP Advanced Datatable" you can do adding, editing, deletion and diaplay proccess on your tables in your database with high speed and great speed that provides the programmer with effectiveness in the development of the project and provide great efficiency to the user
 
 
 # Features:
